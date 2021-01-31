@@ -12,7 +12,7 @@ Possible TODO-s & bónusz feladat:
    -> Regarding to the specification only create & update operations were mandatory, adding UPDATE operations would be nice.
 
 +1:
-- Managing Costumers:
+- Managing Customers:
    -> Before adding a review, we should make sure that the customer already purchased the product.
 
 +2:
